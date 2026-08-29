@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/Hiroto Kiyama Anime GIF - Hiroto Kiyama Anime Inazuma Eleven - Discover & Share GIFs.gif">
+<img align="right" alt="" src="./src/Hiroto Kiyama Anime GIF - Hiroto Kiyama Anime Inazuma Eleven - Discover & Share GIFs.gif">
 
 #
 
