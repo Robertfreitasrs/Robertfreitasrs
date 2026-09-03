@@ -32,7 +32,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://github.com/user-attachments/assets/acdad250-dd35-4cd3-8b2a-829fa4caa016" height="25" alt="python logo"  />
+  <img src="(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg)" height="25" alt="python logo"  />
   <img width="8" />
 
 
