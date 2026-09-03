@@ -32,7 +32,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000001e50820e8a1f1365508774b2&ts=496776&p=fs&cid=1&sig=11786f87466c2bc2424980569b7b07b5720c3624a4d09087770e1a2b11238e92&v=0" height="25" alt="python logo"  />
+  <img src="(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" height="25" alt="python logo"  />
   <img width="8" />
 
 
